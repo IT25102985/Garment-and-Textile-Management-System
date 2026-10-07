@@ -1,0 +1,17 @@
+node_modules/
+target/
+dist/
+out/
+.idea/
+.vscode/
+*.iml
+.env
+.env.*
+!.env.example
+*.log
+data/
+uploads/
+*.mv.db
+*.trace.db
+*.lock.db
+/StitchWorks/backend/src/main/resources/static/
